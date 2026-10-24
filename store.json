@@ -1,9 +1,23 @@
 
 [
   {
-    "title": "Tema de color naranja",
+    "title": "Tema Aurora",
     "author": "King",
-    "description": "Test de personalidad ACC (Animate comedy character)",
-    "file_url": "https://raw.githubusercontent.com/kingorange6781-a11y/King-test-store/refs/heads/main/Orange.json"
-  }
+    "file_url": "https://raw.githubusercontent.com/kingorange6781-a11y/King-test-store-Temas/refs/heads/main/Aurora.json?token=GHSAT0AAAAAAENOBZWAMZ6PBMURKLL2YOHU2W37MEA"
+  },
+    {
+    "title": "Tema Bosque",
+    "author": "King",
+    "file_url": "https://raw.githubusercontent.com/kingorange6781-a11y/King-test-store-Temas/refs/heads/main/Bosque.json?token=GHSAT0AAAAAAENOBZWA3TZLQVJGBSTQZ7VG2W37OEA"
+  },
+    {
+    "title": "Tema brasa",
+    "author": "King",
+    "file_url": "https://raw.githubusercontent.com/kingorange6781-a11y/King-test-store-Temas/refs/heads/main/Brasa.json?token=GHSAT0AAAAAAENOBZWBQTSOADGD5V3QU6D42W37OGA"
+  },
+    {
+    "title": "Tema Neon",
+    "author": "King",
+    "file_url": "https://raw.githubusercontent.com/kingorange6781-a11y/King-test-store-Temas/refs/heads/main/Neon.json?token=GHSAT0AAAAAAENOBZWB2L45QXFT5ESTUO5Q2W37OHQ"
+  },
 ]
