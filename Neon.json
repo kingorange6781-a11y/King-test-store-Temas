@@ -1,0 +1,12 @@
+{
+  "name": "Neon",
+  "author": "King Test",
+  "colors": {
+    "window": "#171326",
+    "surface": "#251C3A",
+    "text": "#FFF7FF",
+    "muted": "#C9B7D9",
+    "accent": "#F044C7",
+    "border": "#583B70"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Aurora",
+  "author": "King Test",
+  "colors": {
+    "window": "#101827",
+    "surface": "#1B2A41",
+    "text": "#F2F7FF",
+    "muted": "#A8BCD4",
+    "accent": "#38BDF8",
+    "border": "#31506B"
+  }
+}

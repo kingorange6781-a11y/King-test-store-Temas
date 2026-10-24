@@ -1,0 +1,12 @@
+{
+  "name": "Bosque",
+  "author": "King Test",
+  "colors": {
+    "window": "#102019",
+    "surface": "#1D3328",
+    "text": "#F0F7F1",
+    "muted": "#B4C9B8",
+    "accent": "#4CAF78",
+    "border": "#355844"
+  }
+}

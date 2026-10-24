@@ -1,0 +1,12 @@
+{
+  "name": "Brasa",
+  "author": "King Test",
+  "colors": {
+    "window": "#21150F",
+    "surface": "#352117",
+    "text": "#FFF5E9",
+    "muted": "#D6B79C",
+    "accent": "#F97316",
+    "border": "#70401F"
+  }
+}
